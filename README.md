@@ -169,13 +169,19 @@ CSV出力
 
 フロントエンド
 
-* Next.js
+* Frontend:Next.js
 * TypeScript
-* Tailwind CSS
+* UI:Tailwind CSS
+* 認証:Supabase Auth
+  
 
 バックエンド
 
-* Supabase
+* Supabase : Supabase PostgreSQL
+* Hosting: Vercel
+* Email:Resend
+* 出欠管理: Spabase
+* File Upload : Supabase Storage
 
 機能
 
